@@ -1,0 +1,5 @@
+{
+    "require": {
+        "dborsatto/sql-result-set-mapper": "^1.3"
+    }
+}
